@@ -100,9 +100,3 @@ Run binary:
 - Better error handling
 - Dynamic tape resizing
 - Debug mode
-
----
-
-## License
-
-MIT License
